@@ -30,3 +30,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignorar el archivo de conexión a la base de datos
+src/main/java/com/archiveSphere/backend/DatabaseConnection.java
